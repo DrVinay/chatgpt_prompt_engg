@@ -1,6 +1,0 @@
-openai
-dotenv
-ipykernel
-jupyter
-ipython
-pandas
