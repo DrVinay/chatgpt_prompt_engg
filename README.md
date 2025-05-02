@@ -15,10 +15,17 @@ Course link: https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/
 
   
 ## Installation
-Steps to create and use Python virtual environment in Windows:
+* Setup Python virtual environment in Windows:
 1. python -m venv .venv
 2. .venv\Scripts\activate
 3. pip install -r .\requirements.txt
+
+* Get OpenAI api_key
+  Create your account and generate api_key from https://platform.openai.com/settings/organization/api-keys.
+  Note: The Free ChatGPT plan only gives you access to GPT-3.5 in the web UI (chat.openai.com), not API usage.
+
+* ChatGPT prompts used
+  I have kept open 4 ChatGPT tabs for help with Python, GitHub, OpenAI, and prompting
 
 ## L2 Guidelines
 
